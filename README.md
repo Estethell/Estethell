@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ilaria Rosati</h1>
+<h1 align="center">Hi 👋, I'm Ilaria</h1>
 <h3 align="center">FullStack developer student in Epicode, Italy</h3>
 
 - 🌱 I’m currently learning **React, Javascrip, CSS, Redux, PhP**
