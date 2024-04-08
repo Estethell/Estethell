@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **estethell@gmail.com**
 
--  👯 I’m looking to collaborate on **other junior fullStack developer*
-
--  💬 Ask me about **CSS, Sass, JavaScript, React, Redux**
+-  👯 I’m looking to collaborate with **other junior fullStack developer**
 
 - 😄 Pronouns: She/Her
 
@@ -34,4 +32,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Estethell"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Estethell" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estethell&show_icons=true&locale=en&layout=compact" alt="estethell" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=estethell&show_icons=true&locale=en&layout=compact" alt="estethell" /></p>
