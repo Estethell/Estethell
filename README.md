@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Javascrip, CSS, Redux, PhP**
 
-- 📫 How to reach me **estethell@gmail.com**
+- 📫 How to reach me **ilaria.rosati93@gmail.com**
 
 -  👯 I’m looking to collaborate with **other junior fullStack developer**
 
